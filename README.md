@@ -24,4 +24,4 @@ Wichtig ist noch zu sagen, dass die CSV-Datei im Ordner data ist.
 Viel Spaß beim Nutzen des Projektes. 
 Hier ein kleiner Einblick: 
 
-![](/aufgabe3-Peaks/data/pictures/screen.jpg)
+![](/data/pictures/screen.jpg)
