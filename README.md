@@ -13,7 +13,7 @@
 ## Nutzung des Projektes 
 
 
-Dann nutzt man [`diesen Link`](https://github.com/JonPer00/proueb_2025) um das Repository in Visual Sudio Code zu Klonen. 
+Dann nutzt man [`diesen Link`](https://github.com/JonPer00/aufgabe3-Peaks) um das Repository in Visual Sudio Code zu Klonen. 
 
 Lediglich `pdm install` reicht aus, um alle anderen Datei mitzuinstallieren. 
 
